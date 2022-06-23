@@ -1,0 +1,76 @@
+.pro{
+  flex-direction: column;
+  font-size: 24px;
+  top:340px;
+}
+h3{
+  font-size: 40px;
+}
+
+.fimage{
+  position: relative;
+  top:500px;
+  height: 40%;
+}
+
+.top{
+  height:160px;
+
+}
+
+.bottom{
+  flex-direction: column;
+}
+
+p{
+  color: white;
+
+}
+
+h1{
+  color:lightgreen;
+}
+
+.middle{
+  top: 240px;
+  right: 30px;
+
+}
+
+.bottom{
+  display: none;
+}
+
+.nitin{
+  position:absolute;
+  bottom: 265px;
+  left:530px;
+}
+
+.footer{
+  height: 5.5%;
+  font-size: 70px;
+}
+
+.pro1{
+  margin-left: 5%;
+}
+.pro2{
+  bottom: 120px;
+  margin-left: 35%;
+}
+.pro3{
+  margin-left: 68%;
+}
+
+.button{
+  font-size: 60px;
+}
+.btn {
+  font-size: 16px;
+  bottom:10px;
+}
+
+.ach{
+  font-size: 30px;
+}
